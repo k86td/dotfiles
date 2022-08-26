@@ -14,9 +14,11 @@ Plug 'honza/vim-snippets'
 Plug 'vim-airline/vim-airline'
 Plug 'preservim/nerdtree'
 
-Plug 'rafi/awesome-vim-colorscheme'
+Plug 'rafi/awesome-vim-colorschemes'
 
 call plug#end()
+
+colorscheme deus
 
 
 
