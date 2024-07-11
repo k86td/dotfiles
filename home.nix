@@ -30,7 +30,7 @@ in
   };
 
   home.shellAliases = {
-    sw = "home-manager switch";
+    sw = "home-manager --flake ~/.config/home-manager#tlepine switch";
   };
 
   # Let Home Manager install and manage itself.
